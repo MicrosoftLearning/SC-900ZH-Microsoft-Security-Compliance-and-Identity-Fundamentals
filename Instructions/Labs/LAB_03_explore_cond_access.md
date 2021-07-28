@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure AD 中的条件访问管理'
     module: '模块 2 第 3 课：描述 Microsoft 标识和访问管理解决方案的功能：探索 Azure AD 的访问管理功能'
