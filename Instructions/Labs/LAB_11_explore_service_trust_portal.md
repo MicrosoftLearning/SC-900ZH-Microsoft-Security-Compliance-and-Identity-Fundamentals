@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索服务信任门户'
     module: '模块 4 第 1 课：描述 Microsoft 合规性解决方案的功能：描述 Microsoft 合规性管理功能'
