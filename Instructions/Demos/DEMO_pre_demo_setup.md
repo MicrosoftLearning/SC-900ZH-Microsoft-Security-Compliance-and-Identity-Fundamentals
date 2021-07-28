@@ -1,4 +1,4 @@
-﻿---
+---
 Pre-Demo Setup:
     title: '演示设置'
 ---
