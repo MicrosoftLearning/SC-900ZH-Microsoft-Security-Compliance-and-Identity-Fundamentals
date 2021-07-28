@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Microsoft 365 合规中心与合规性管理器
     module: '模块 4 第 1 课：描述 Microsoft 合规性解决方案的功能：描述 Microsoft 合规性管理功能
