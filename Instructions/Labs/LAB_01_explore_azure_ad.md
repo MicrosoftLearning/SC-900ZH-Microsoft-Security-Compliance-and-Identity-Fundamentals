@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure Active Directory'
     module: '模块 2 第 1 课：描述 Microsoft 标识和访问管理解决方案的功能：了解 Azure AD 的服务和标识类型'
