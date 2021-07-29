@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure Policy'
     module: '模块 4 第 5 课：描述 Microsoft 合规性解决方案的功能：描述 Azure Policy'

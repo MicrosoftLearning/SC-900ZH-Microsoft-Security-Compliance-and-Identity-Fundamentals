@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure Sentinel'
     module: '模块 3 第 3 课：描述 Microsoft 安全解决方案的功能：Azure Sentinel 安全功能介绍'

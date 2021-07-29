@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure Active Directory 自助式密码重置'
     module: '模块 2 第 2 课：描述 Microsoft 标识和访问管理解决方案的功能：描述 Azure AD 的不同身份验证方法'

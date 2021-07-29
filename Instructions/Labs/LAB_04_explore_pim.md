@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure AD 中的 Privileged Identity Management 标识治理。'
     module: '模块 2 第 4 课：描述 Azure AD 的标识保护和治理功能：描述 Azure 标识保护。'
