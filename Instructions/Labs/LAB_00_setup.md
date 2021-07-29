@@ -18,7 +18,7 @@ lab:
 
 1. 右键单击 Microsoft Edge 图标，然后选择 **“新建 InPrivate 窗口”** 以打开一个新的 In-Private 浏览器会话。其他 
 
-1. 在地址栏中，输入 **www.microsoftazurepass.com**。  
+1. 在地址栏中，输入 **www.microsoftazurepass.com**
 
 1. 选择 **“开始”** 按钮开始操作。
 

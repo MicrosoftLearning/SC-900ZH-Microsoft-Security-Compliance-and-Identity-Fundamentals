@@ -78,7 +78,7 @@ lab:
 
 #### 任务 3：在此任务中，你将从用户 Debra Berger 的角度了解条件访问策略的影响。你将先登录一款未包含在条件访问策略中的应用程序。  然后，你将对一款包含在条件访问策略中的应用程序重复该过程。  回想一下，该策略要求用户在访问 Microsoft Azure 管理应用程序时进行 MFA。  要使用 MFA，用户必须先注册将用于 MFA 的身份验证方法，例如将验证码发送到移动设备或身份验证器应用程序。
 
-1. 打开 Microsoft Edge。  在浏览器的地址栏中，输入 **“https://login.microsoftonline.com/”**。
+1. 打开 Microsoft Edge。  在浏览器的地址栏中，输入 **“https://login.microsoftonline.com/”**
 
 1. 以 Debra Burger 的身份登录：
     1. 在“登录”窗口中，输入 **“DebraB@WWLxZZZZZZ.onmicrosoft.com”**（其中，ZZZZZZ 是实验室托管提供商提供的唯一租户 ID），然后选择 **“下一步”**。
