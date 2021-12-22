@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft 365 中的敏感度标签'
     module: '模块 4 第 2 课：描述 Microsoft 合规性解决方案的功能：Microsoft 365 信息保护与治理功能介绍'
