@@ -10,7 +10,7 @@ Demo:
 
 在此演示中，你将逐步演练 Microsoft Defender for Cloud 并展示如何使用 Azure 安全功能分数来优化组织的安全状况。
 
-1. 打开浏览器选项卡“主页 - Microsoft Azure”****。  如果之前关闭了该选项卡，请打开浏览器页面，在地址栏中输入 portal.azure.com，然后重新登录。
+1. 打开浏览器选项卡“**主页 - Microsoft Azure**”。  如果之前关闭了该选项卡，请打开浏览器页面，在地址栏中输入 portal.azure.com，然后重新登录。
 
 1. 在页面顶部 Microsoft Azure 旁边蓝色栏的搜索框中，输入“**Microsoft Defender for Cloud**”，然后在搜索结果中选择“**Microsoft Defender for Cloud**”。
 
@@ -35,7 +35,7 @@ Demo:
 1. 你已返回到 Microsoft Defender for Cloud 概述页面。  在主页上，选择“安全功能分数”（这相当于在左侧导航面板中选择“**安全功能分数**”）。
     1. 这会转到安全功能分数仪表板。  此外，它还列出了所有可用的管理组和订阅。  选择“Azure 订阅 - Azure Pass - 赞助”。
     1. 这会转到“建议”页面，前面已经介绍过。
-    1. 选择屏幕右上角的“X”退出“**建议**”页面。
+    1. 选择屏幕右上角的“**X**”退出“建议”页面。
     1. 选择屏幕右上角的“**X**”退出“安全功能分数”页面，返回到概述页面。
 
 1. 你已返回到 Microsoft Defender for Cloud 概述页面。  在主页中选择“**法规合规性**”。（请注意，这相当于在 Microsoft Defender for Cloud 主页的左侧导航面板中选择了“建议”）。
