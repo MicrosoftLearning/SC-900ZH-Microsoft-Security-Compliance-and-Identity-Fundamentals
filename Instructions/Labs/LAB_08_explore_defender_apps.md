@@ -1,14 +1,14 @@
----
+﻿---
 lab:
     title: '探索 Microsoft Defender for Cloud Apps'
     module: '模块 3 第 4 课：描述 Microsoft 安全解决方案的功能：描述 Microsoft 365 Defender 威胁防护'
 ---
 
 
-# 实验室：探索 Micrsoft Defender for Cloud Apps
+# 实验室：探索 Microsoft Defender for Cloud Apps
 
 ## 实验室场景
-在此实验室中，你将探索 Microsoft Defender for Cloud Apps 的功能。  你将了解 Cloud Discovery 仪表板上提供的信息以及可用于调查结果和通过策略控制对组织的影响的功能。  备注：  Microsoft Defender for Cloud Apps 是一项基于用户的订阅服务，组织必须拥有许可证才能使用。 
+在本实验室中，你将探索 Microsoft Defender for Cloud Apps 的功能。  你将了解 Cloud Discovery 仪表板上提供的信息以及可用于调查结果和通过策略控制对组织的影响的功能。  备注：  组织必须拥有许可证才能使用 Microsoft Defender for Cloud Apps，这是一项基于用户的订阅服务。 
 
 **预计用时**：15-20 分钟
 
@@ -63,7 +63,7 @@ lab:
 1. 请将此页面保持打开状态，因为在下一个任务中将用到它。
 
 
-#### 任务 3：在此任务中，你将探索 Microsoft Defender for Cloud Apps 中的策略和警报页面。
+#### 任务 3：在本任务中，你将探索 Microsoft Defender for Cloud Apps 中的策略和警报页。
 
 1. 在左侧导航面板中，选择“**控制**”旁边的向下箭头，然后选择“**策略**”。  列出的策略提供有关策略生成的警报数量、严重性等的信息。选择任意行项（例如“**风险登录**”）即可编辑策略。选择页面底部的“**取消**”。 
 
@@ -72,4 +72,4 @@ lab:
 1. 关闭浏览器窗口。
 
 #### 回顾
-在此实验室中，你探索了 Microsoft Defender for Cloud Apps 的功能。  你了解了 Cloud Discovery 仪表板上提供的信息以及可用于调查结果和通过策略控制对组织的影响的功能。
+在本实验室中，你已探索 Microsoft Defender for Cloud Apps 的功能。  你了解了 Cloud Discovery 仪表板上提供的信息以及可用于调查结果和通过策略控制对组织的影响的功能。
