@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Microsoft 365 内部风险管理'
     module: '模块 4 第 3 课：描述 Microsoft 合规性解决方案的功能：描述 Microsoft 365 中的内部风险功能'
