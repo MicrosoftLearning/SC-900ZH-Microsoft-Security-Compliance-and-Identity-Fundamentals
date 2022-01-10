@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Defender for Cloud'
     module: '模块 3 第 2 课：描述 Microsoft 安全解决方案的功能：描述 Azure 安全管理功能'
